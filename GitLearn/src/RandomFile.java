@@ -13,4 +13,8 @@ public class RandomFile {
 		System.out.println("Second commit from master");
 	}
 
+	public static void Method2() {
+		System.out.println("first commit from branch1");
+	}
 }
+
