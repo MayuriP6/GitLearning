@@ -14,15 +14,13 @@ public class RandomFile {
 		System.out.println("first commit from branch1 for remote mergning");
 	}
 	public static void Method3() {
-		System.out.println("Second commit from master");
-
-		System.out.println("first commit from branch1 for repo merging");
+		System.out.println("third commit from master branch");
 	}
 	public static void Method4() {
-		System.out.println("second commit from branch1 for local merging");
+		System.out.println("fourth commit from branch1 for local merging");
 	}
 	public static void Method5() {
-		System.out.println("third commit from branch1 for loacl merging");
+		System.out.println("Fifth commit from branch1 for loacl merging");
 
 	}
 }
