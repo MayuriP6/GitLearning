@@ -32,6 +32,10 @@ public class RandomFile {
 		System.out.println("seventh commit from master  for rebasing");
 	}
 	
+	public static void Method9() {
+		System.out.println("ninth commit from master  after rebasing and need to merge into branch2 from master ");
+	}
+	
 	
 	public static void Method8() {
 		System.out.println("Eigth commit from branch1 after  local  and pushing it to branch 1 for remote merging");
