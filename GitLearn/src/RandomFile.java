@@ -23,5 +23,10 @@ public class RandomFile {
 		System.out.println("Fifth commit from branch1 for loacl merging");
 
 	}
+	
+	public static void Method6() {
+		System.out.println("sixth commit from branch1 after  local merging and pushing it to branch 1 for remote merging");
+	}
+	
 }
 
