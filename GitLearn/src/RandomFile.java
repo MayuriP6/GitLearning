@@ -9,4 +9,8 @@ public class RandomFile {
 		System.out.println("first commit from master");
 	}
 
+	public static void Method2() {
+		System.out.println("first commit from branch1");
+	}
 }
+
