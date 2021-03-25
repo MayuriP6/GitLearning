@@ -5,7 +5,7 @@ public class RandomFile {
 		System.out.println("Print stmt");
 	}
 
-	public static void Method2(String[] args) {
+	public static void Method2() {
 		System.out.println("first commit from branch1");
 	}
 }
