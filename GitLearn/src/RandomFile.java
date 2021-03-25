@@ -37,5 +37,9 @@ public class RandomFile {
 		System.out.println("Eigth commit from branch1 after  local  and pushing it to branch 1 for remote merging");
 	}
 	
+	public static void Method10() {
+		System.out.println("Tenth comment");
+	}
+	
 }
 
